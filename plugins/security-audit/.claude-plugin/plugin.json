@@ -1,0 +1,6 @@
+{
+  "name": "security-audit",
+  "description": "Cloudflare security-audit skill: six-phase vulnerability audit workflow.",
+  "version": "1.0.0",
+  "author": { "name": "TryXChiller" }
+}

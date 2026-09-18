@@ -1,0 +1,11 @@
+{
+  "name": "tryxchiller-skills",
+  "owner": { "name": "TryXChiller" },
+  "plugins": [
+    {
+      "name": "security-audit",
+      "source": "./plugins/security-audit",
+      "description": "Cloudflare security-audit skill (six-phase vulnerability audit workflow)."
+    }
+  ]
+}
