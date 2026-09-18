@@ -1,11 +1,18 @@
 {
   "name": "tryxchiller-skills",
-  "owner": { "name": "TryXChiller" },
+  "owner": {
+    "name": "TryXChiller"
+  },
   "plugins": [
     {
       "name": "security-audit",
       "source": "./plugins/security-audit",
       "description": "Cloudflare security-audit skill (six-phase vulnerability audit workflow)."
+    },
+    {
+      "name": "vermenschlichen",
+      "source": "./plugins/vermenschlichen",
+      "description": "Deutsche Texte natuerlich, sachlich und leserorientiert schreiben oder ueberarbeiten; unterscheidet Stilpruefung, KI-Erkennung und Herkunftskennzeichen."
     }
   ]
 }
