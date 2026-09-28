@@ -1,0 +1,17 @@
+{
+  "name": "gstack-installer",
+  "displayName": "gstack Installer",
+  "description": "Installiert oder aktualisiert Garry Tans gstack mit dem offiziellen Setup fuer Claude Code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "TryXChiller"
+  },
+  "homepage": "https://github.com/garrytan/gstack",
+  "repository": "https://github.com/TryXChiller/Claude-SKillhub",
+  "license": "MIT",
+  "keywords": [
+    "gstack",
+    "claude-code",
+    "installer"
+  ]
+}

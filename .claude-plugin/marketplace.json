@@ -13,6 +13,11 @@
       "name": "vermenschlichen",
       "source": "./plugins/vermenschlichen",
       "description": "Deutsche Texte natuerlich, sachlich und leserorientiert schreiben oder ueberarbeiten; unterscheidet Stilpruefung, KI-Erkennung und Herkunftskennzeichen."
+    },
+    {
+      "name": "gstack-installer",
+      "source": "./plugins/gstack-installer",
+      "description": "Installiert oder aktualisiert Garry Tans gstack mit dem offiziellen Setup fuer Claude Code."
     }
   ]
 }
