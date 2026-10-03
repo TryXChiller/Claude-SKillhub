@@ -18,6 +18,11 @@
       "name": "gstack-installer",
       "source": "./plugins/gstack-installer",
       "description": "Installiert oder aktualisiert Garry Tans gstack mit dem offiziellen Setup fuer Claude Code."
+    },
+    {
+      "name": "ecc-app-development",
+      "source": "./plugins/ecc-app-development",
+      "description": "Drei angepasste ECC-Skills für gezielte App-Sicherheitsreviews, Abschlussprüfung und E2E-Tests einschließlich dauerhafter Speicherung."
     }
   ]
 }

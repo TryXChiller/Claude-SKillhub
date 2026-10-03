@@ -1,0 +1,9 @@
+{
+  "name": "ecc-app-development",
+  "description": "Drei angepasste ECC-Skills für gezielte App-Sicherheitsreviews, Abschlussprüfung und E2E-Tests einschließlich dauerhafter Speicherung.",
+  "version": "1.0.0",
+  "author": {
+    "name": "TryXChiller"
+  },
+  "license": "MIT"
+}
